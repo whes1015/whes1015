@@ -3,7 +3,7 @@
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- ExpTechTW 的 `開發人員`
 
 ## 索引
 - [文檔](#文檔)
@@ -12,7 +12,8 @@
 - [合作](#合作)
 
 ## 文檔
-- [我的個人頁面](https://www.githubtrends.io/wrapped/whes1015)
+- [我的個人資訊頁面](https://www.githubtrends.io/wrapped/whes1015)
+- [ExpTechTW](https://github.com/ExpTechTW)
 
 ## 貢獻者
 - whes1015 `文檔`
