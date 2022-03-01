@@ -1,4 +1,4 @@
-# 模板
+# whes1015
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
@@ -6,9 +6,13 @@
 - 這是一個 ExpTech Github 模板
 
 ## 索引
+- [文檔](#文檔)
 - [貢獻者](#貢獻者)
 - [發佈規則](#發佈規則)
 - [合作](#合作)
+
+## 文檔
+- [我的個人頁面](https://www.githubtrends.io/wrapped/whes1015)
 
 ## 貢獻者
 - whes1015 `文檔`
