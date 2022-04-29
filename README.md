@@ -18,6 +18,8 @@
 ## 貢獻者
 - whes1015 `文檔`
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whes1015&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whes1015&langs_count=8)
 ------
 
 ## 發佈規則
