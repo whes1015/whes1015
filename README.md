@@ -1,32 +1,20 @@
 # whes1015
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
-------
+## 🌟 關於我
+- 19歲 `2003/10/15`，對 電子電路 及 程式設計 有興趣，正在努力成為一個專業的軟體工程師
 
-- ExpTechTW 的 `開發人員`
+## 📝 作品
+- [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite) 臺灣即時地震監測
 
-## 索引
-- [文檔](#文檔)
-- [貢獻者](#貢獻者)
-- [發佈規則](#發佈規則)
-- [合作](#合作)
+## 📡 技能
+- `Java` `JavaScript` `Lua` `Dart` `Python` `C` `C++` `HTML` `CSS`
 
-## 文檔
-- [我的個人資訊頁面](https://www.githubtrends.io/wrapped/whes1015)
-- [ExpTechTW](https://github.com/ExpTechTW)
-
-## 貢獻者
-- whes1015 `文檔`
+## ⏰ 記錄
+- `2022/05/31` 首次與 高中學校合作(臺南 大灣高中) 部屬自製加速度型地震儀
+- `2022/12/12` 與 交通部中央氣象局(CWB) 簽約合作
+- `2022/12/17` 首次與 國中學校合作(臺東 池上國中) 部屬自製加速度型地震儀
+- `2023/02/07` 至 中央研究院(臺灣地震科學中心) 分享 TREM 開發過程
+- `2023/04/05` 與 `eggrollpvp#8159` 合作於 `桃園市第63屆中小學科學展覽會` 獲得 `地球與行星科學科` 第一名 並參加全國賽
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=whes1015&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whes1015&langs_count=8)
-------
-
-## 發佈規則
-- 如果新版本中有錯誤，且尚未列出，請將錯誤資訊提交到 ```issue```
-- 如果您使用任何形式的辱罵性或貶義性語言給其他用戶，您將永遠被封禁！
-- 不要發送重複無意義內容至 ```issue```，否則您將永遠被封禁！
-- 若有任何問題或建議，歡迎提出
-
-## 合作
-- 若有任何可以改進的地方，歡迎使用 ```Pull requests``` 來提交
