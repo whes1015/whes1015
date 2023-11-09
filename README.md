@@ -2,7 +2,7 @@
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ## 🌟 關於我
-- 19歲 `2003/10/15`，對 電子電路 及 程式設計 有興趣，正在努力成為一個專業的軟體工程師
+- 20歲 `2003/10/15`，對 電子電路 及 程式設計 有興趣，正在努力成為一個專業的軟體工程師
 
 ## 📝 作品
 - [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite) 臺灣即時地震監測
