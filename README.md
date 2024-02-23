@@ -3,6 +3,7 @@
 
 ## 🌟 關於我
 - 20歲 `2003/10/15`，對 電子電路 及 程式設計 有興趣，正在努力成為一個專業的軟體工程師
+- `NKUST` 電機工程
 
 ## 📝 作品
 - [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite) 臺灣即時地震監測
