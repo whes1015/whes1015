@@ -20,6 +20,6 @@
 - `2023/07/28` 作品 `TREM` 拿去 `第63屆全國中小學科學展覽會` 獲得 `地球與行星科學科` **全國** 第二名
 - `2023/11/07` 以 **ExpTech - Team Leaders** 的身份 受邀參加 `中央氣象署(CWA) 112年 合作推動地震資訊傳遞服務成果交流會`
 - `2023/11/14` 加入 **衛波科技股份有限公司(P-WAVER Inc.)** 擔任 `Engineer`
-- `2024/01/25` 參加 **中央研究院 2024 Earthquake Early Warning workshop**
+- `2024/01/25` 參加 **中央研究院 2024 Earthquake Early Warning workshop** 並與 `京都大學 山田真澄 老師` 分享 TREM 開發過程 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=whes1015&show_icons=true&theme=radical&count_private=true)
