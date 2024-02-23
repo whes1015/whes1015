@@ -9,7 +9,7 @@
 - [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite) 臺灣即時地震監測
 
 ## 📡 技能
-- `Java` `JavaScript` `Lua` `Dart` `Python` `C` `C++` `HTML` `CSS`
+- `Java` `JavaScript` `Lua` `Dart` `Python` `C` `C++` `HTML` `CSS` `Go` `C#`
 
 ## ⏰ 記錄
 - `2020/10/15` 建立 **ExpTech | 探索科技**
