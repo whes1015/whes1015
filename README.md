@@ -1,4 +1,4 @@
-# whes1015
+# YuYu1015
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ## 🌟 關於我
