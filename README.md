@@ -48,16 +48,13 @@ Unity
 
 ## 📱 社群連結
 <div align="left">
-  <a href="https://discord.gg/your-server-invite">
+  <a href="https://exptech.com.tw/dc">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-username">
+  <a href="https://www.instagram.com/whes1015">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your-username">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.threads.net/@your-username">
+  <a href="https://www.threads.net/@whes1015">
     <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" />
   </a>
 </div>
