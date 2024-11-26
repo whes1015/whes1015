@@ -34,30 +34,24 @@
 
 ### 🔧 框架與工具
 <div>
-  <!-- 前端開發 -->
   <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   
-  <!-- 後端開發 -->
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   
-  <!-- 資料庫 -->
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   
-  <!-- 部署工具 -->
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
   
-  <!-- 版本控制 -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   
-  <!-- 作業系統 -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
@@ -71,15 +65,12 @@
 
 ### 🔌 開發板
 <div>
-  <!-- Arduino -->
   <img src="https://img.shields.io/badge/Arduino_Uno-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_Nano-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"/>
   
-  <!-- ESP -->
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   
-  <!-- Raspberry -->
   <img src="https://img.shields.io/badge/Raspberry_Pi_4B-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 </div>
@@ -137,14 +128,14 @@
 ## ⏰ 重要里程碑（競賽＆獲獎）
 | 日期 | 成就 |
 |------|------|
+| `2023/04/05` | `TREM` 在 `桃園市第63屆中小學科學展覽會` 獲得 `地球與行星科學科` **縣市第一名**
+| `2023/07/28` | `TREM` 在 `第63屆全國中小學科學展覽會` 獲得 `地球與行星科學科` **全國第二名**
 | `2024/07/10` | 參加 `2024 MAIC 行動應用創新競賽`
 | `2024/11/09` | DPIP 獲得 **防災傑出獎**
 
 ## ⏰ 重要里程碑（報導）
 | 日期 | 成就 |
 |------|------|
-| `2023/04/05` | `TREM` 在 `桃園市第63屆中小學科學展覽會` 獲得 `地球與行星科學科` **縣市第一名**
-| `2023/07/28` | `TREM` 在 `第63屆全國中小學科學展覽會` 獲得 `地球與行星科學科` **全國第二名**
 | `2024/04/24` | DPIP 獲得 `三立新聞` 報導
 | `2024/04/24` | DPIP 獲得 `民視新聞` 報導
 | `2024/04/24` | DPIP 獲得 `華視新聞` 報導
