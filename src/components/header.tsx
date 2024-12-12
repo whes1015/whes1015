@@ -1,4 +1,4 @@
-import NavigationHeader from './navigation-header';
+import NavigationHeader from "@/components/NavigationHeader";
 
 export default function AppHeader() {
   return (
