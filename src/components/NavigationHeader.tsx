@@ -7,12 +7,13 @@ import {
   DarkMode as MoonIcon,
 } from "@mui/icons-material";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useSearchParams } from "next/navigation";
 import { useDarkMode } from "@/hooks/UseDarkMode";
 import { Avatar } from "@mui/material";
 
 const NavigationHeader = () => {
   const pathname = usePathname();
+  const searchParams = useSearchParams();
   const { isDarkMode, toggleDarkMode, mounted } = useDarkMode();
 
   const navigationItems = [
@@ -20,13 +21,13 @@ const NavigationHeader = () => {
       href: "/",
       icon: <HomeIcon className="h-5 w-5" />,
       text: "首頁",
-      isActive: pathname === "/",
+      isActive: pathname == "/",
     },
     {
       href: "/blog",
       icon: <BookIcon className="h-5 w-5" />,
       text: "文章",
-      isActive: pathname === "/blog",
+      isActive: pathname == "/blog" && !searchParams.size,
     },
   ];
 

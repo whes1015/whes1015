@@ -1,9 +1,17 @@
 import { TimelinePost } from "@/modal/Post";
 import { Card, CardContent } from "@mui/material";
+import { useRouter } from "next/navigation";
 
 export function BlogTimeLineCard({ post }: { post: TimelinePost }) {
+  const router = useRouter();
+
+  const handleCardClick = () => {
+    router.push(`/blog?page=1`);
+  };
+
   return (
     <Card
+      onClick={handleCardClick}
       sx={{ background: "transparent" }}
       className={`
                 flex h-full cursor-pointer flex-col
@@ -19,14 +27,12 @@ export function BlogTimeLineCard({ post }: { post: TimelinePost }) {
                 overflow-hidden
               `}
     >
-      {/* 光源效果 1: 懸停時的邊緣光暈 */}
       <div
         className="absolute inset-0 opacity-0 group-hover:opacity-100 
                 transition-opacity duration-300
                 bg-gradient-to-r from-primary/10 via-transparent to-primary/5"
       />
 
-      {/* 光源效果 2: 卡片中心發光 */}
       <div
         className="absolute inset-0 opacity-0 group-hover:opacity-30
                 transition-opacity duration-500 pointer-events-none
