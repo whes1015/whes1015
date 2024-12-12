@@ -2,7 +2,7 @@
 
 import {
   Home as HomeIcon,
-  Store as StoreIcon,
+  Book as BookIcon,
   LightMode as SunIcon,
   DarkMode as MoonIcon,
 } from "@mui/icons-material";
@@ -22,8 +22,8 @@ const NavigationHeader = () => {
       isActive: pathname === "/",
     },
     {
-      href: "/store",
-      icon: <StoreIcon className="h-5 w-5" />,
+      href: "/blog",
+      icon: <BookIcon className="h-5 w-5" />,
       text: "文章",
       isActive: pathname === "/store",
     },
