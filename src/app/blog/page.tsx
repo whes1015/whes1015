@@ -1,9 +1,9 @@
-import LeftAlignedTimeline from "@/components/BlogTimeLine";
+import BlogTimeline from "@/components/BlogTimeLine";
 
 export default function Blog() {
   return (
     <div>
-      <LeftAlignedTimeline />
+      <BlogTimeline />
     </div>
   );
 }

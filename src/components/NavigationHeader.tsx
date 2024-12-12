@@ -9,6 +9,7 @@ import {
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useDarkMode } from "@/hooks/UseDarkMode";
+import { Avatar } from "@mui/material";
 
 const NavigationHeader = () => {
   const pathname = usePathname();
@@ -25,7 +26,7 @@ const NavigationHeader = () => {
       href: "/blog",
       icon: <BookIcon className="h-5 w-5" />,
       text: "文章",
-      isActive: pathname === "/store",
+      isActive: pathname === "/blog",
     },
   ];
 
@@ -35,7 +36,13 @@ const NavigationHeader = () => {
     <header className="border-b border-border bg-background">
       <div className="container mx-auto">
         <div className="flex h-16 items-center justify-between px-4">
-          <nav className="flex gap-2">
+          <nav className="flex gap-2 items-center">
+            <Avatar
+              className="mr-3"
+              alt="User"
+              src="https://avatars.githubusercontent.com/u/44525760?v=4"
+              sx={{ width: 35, height: 35 }}
+            />
             {navigationItems.map((item) => (
               <Link
                 key={item.href}
