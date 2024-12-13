@@ -1,5 +1,7 @@
-export interface TimelinePost {
-  date: string;
+export interface Post {
+  slug: string;
   title: string;
-  description: string;
+  date: string;
+  excerpt: string;
+  content?: string;
 }

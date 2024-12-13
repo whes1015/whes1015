@@ -50,7 +50,7 @@ export function BlogTimeLineCard({ post }: { post: TimelinePost }) {
           className="text-sm text-muted-foreground group-hover:text-foreground/90 
                   transition-colors"
         >
-          {post.description}
+          {post.excerpt}
         </p>
       </CardContent>
     </Card>

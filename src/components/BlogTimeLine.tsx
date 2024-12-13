@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import {
   Timeline,
   TimelineItem,
@@ -11,23 +12,35 @@ import {
   timelineOppositeContentClasses,
 } from "@mui/lab";
 import { BlogTimeLineCard } from "./BlogTimeLineCard";
-import { TimelinePost } from "@/modal/Post";
+import { getAllPosts } from "@/lib/api";
+import { Post } from "@/modal/Post";
 
-const posts: TimelinePost[] = [
-  {
-    date: "2024-03-15",
-    title: "新功能發布",
-    description:
-      "今天我們發布了一些令人興奮的新功能，包括深色模式和時間軸視圖。",
-  },
-  {
-    date: "2024-03-05",
-    title: "Bug 修復",
-    description: "修復了使用者報告的幾個關鍵 bug，提升了整體穩定性。",
-  },
-];
+export function BlogTimeline() {
+  const [posts, setPosts] = useState<Post[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-export default function BlogTimeline() {
+  useEffect(() => {
+    const fetchPosts = async () => {
+      try {
+        const fetchedPosts = await getAllPosts();
+        const sortedPosts = [...fetchedPosts].sort(
+          (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+        );
+        setPosts(sortedPosts);
+      } catch (error) {
+        console.error("Failed to fetch posts:", error);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchPosts();
+  }, []);
+
+  if (isLoading) {
+    return <div>Loading...</div>; // 可以替換成更好看的載入元件
+  }
+
   return (
     <Timeline
       sx={{
