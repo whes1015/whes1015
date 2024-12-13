@@ -5,6 +5,7 @@ import {
   Book as BookIcon,
   LightMode as SunIcon,
   DarkMode as MoonIcon,
+  History as ExperienceIcon,
 } from "@mui/icons-material";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
@@ -28,6 +29,12 @@ const NavigationHeader = () => {
       icon: <BookIcon className="h-5 w-5" />,
       text: "文章",
       isActive: pathname == "/blog" && !searchParams.size,
+    },
+    {
+      href: "/experience",
+      icon: <ExperienceIcon className="h-5 w-5" />,
+      text: "經歷",
+      isActive: pathname == "/experience",
     },
   ];
 
