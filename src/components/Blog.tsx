@@ -52,7 +52,7 @@ export function BlogPage({ page }: { page: string }) {
   }
 
   return (
-    <div className="flex gap-3 m-3">
+    <div className="gap-3 m-3 sm:flex">
       <BlogContent
         content={post.content ?? ""}
         onHeadingsExtracted={setHeadings}
