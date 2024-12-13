@@ -16,7 +16,7 @@ const Home = () => {
               mb: 3,
             }}
           />
-          <h1 className="text-4xl md:text-5xl font-black">whes1015</h1>
+          <h1 className="text-4xl md:text-4xl font-black">whes1015</h1>
         </aside>
 
         <main className="md:w-4/5">

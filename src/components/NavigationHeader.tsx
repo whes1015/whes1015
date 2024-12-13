@@ -45,12 +45,14 @@ const NavigationHeader = () => {
       <div className="container mx-auto">
         <div className="flex h-16 items-center justify-between px-4">
           <nav className="flex gap-2 items-center">
-            <Avatar
-              className="mr-3"
-              alt="User"
-              src="https://avatars.githubusercontent.com/u/44525760?v=4"
-              sx={{ width: 35, height: 35 }}
-            />
+            <Link href="https://github.com/whes1015">
+              <Avatar
+                className="mr-3"
+                alt="User"
+                src="https://avatars.githubusercontent.com/u/44525760?v=4"
+                sx={{ width: 35, height: 35 }}
+              />
+            </Link>
             {navigationItems.map((item) => (
               <Link
                 key={item.href}
