@@ -5,13 +5,15 @@ import { useRouter } from "next/navigation";
 export function BlogTimeLineCard({ post }: { post: Post }) {
   const router = useRouter();
 
-  const handleCardClick = () => {
-    router.push(`/blog?page=1`);
+  const handleCardClick = (slug: string) => {
+    return () => {
+      router.push(`/blog?page=${slug}`);
+    };
   };
 
   return (
     <Card
-      onClick={handleCardClick}
+      onClick={handleCardClick(post.slug)}
       sx={{ background: "transparent" }}
       className={`
                 flex h-full cursor-pointer flex-col

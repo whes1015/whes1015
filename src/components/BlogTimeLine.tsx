@@ -14,6 +14,7 @@ import {
 import { BlogTimeLineCard } from "./BlogTimeLineCard";
 import { getAllPosts } from "@/lib/api";
 import { Post } from "@/modal/Post";
+import { LoadingState } from "./loading";
 
 export function BlogTimeline() {
   const [posts, setPosts] = useState<Post[]>([]);
@@ -38,7 +39,7 @@ export function BlogTimeline() {
   }, []);
 
   if (isLoading) {
-    return <div>Loading...</div>; // 可以替換成更好看的載入元件
+    return <LoadingState />;
   }
 
   return (
