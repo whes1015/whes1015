@@ -3,7 +3,7 @@ import matter from "gray-matter";
 
 const isProduction = process.env.NODE_ENV === "production";
 const GITHUB_RAW_URL =
-  "https://raw.githubusercontent.com/whes1015/whes1015/main/public";
+  "https://raw.githubusercontent.com/ExpTechTW/blog/main/public";
 
 const baseUrl = isProduction
   ? `${GITHUB_RAW_URL}/blogs`
