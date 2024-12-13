@@ -8,11 +8,11 @@ import { Suspense } from "react";
 
 export default function Blog() {
   const searchParams = useSearchParams();
-  const page = Number(searchParams.get("page"));
+  const page = searchParams.get("page");
 
   return (
     <Suspense fallback={<LoadingState />}>
-      <div>{page ? <BlogPage page="test" /> : <BlogTimeline />}</div>
+      <div>{page ? <BlogPage page={page} /> : <BlogTimeline />}</div>
     </Suspense>
   );
 }
