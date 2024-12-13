@@ -1,8 +1,8 @@
-import { TimelinePost } from "@/modal/Post";
+import { Post } from "@/modal/Post";
 import { Card, CardContent } from "@mui/material";
 import { useRouter } from "next/navigation";
 
-export function BlogTimeLineCard({ post }: { post: TimelinePost }) {
+export function BlogTimeLineCard({ post }: { post: Post }) {
   const router = useRouter();
 
   const handleCardClick = () => {
