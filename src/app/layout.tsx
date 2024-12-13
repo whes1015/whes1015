@@ -2,7 +2,7 @@
 
 import "@/app/globals.css";
 import { useEffect } from "react";
-import AppHeader from "@/components/Header1";
+import AppHeader from "@/components/Header";
 
 export default function RootLayout({
   children,
