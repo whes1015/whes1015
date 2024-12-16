@@ -46,7 +46,7 @@ export function BlogTimeline() {
     <Timeline
       sx={{
         [`& .${timelineOppositeContentClasses.root}`]: {
-          flex: 0.05,
+          flex: "0 1 auto",
         },
         padding: 3,
       }}
@@ -54,7 +54,9 @@ export function BlogTimeline() {
       {posts.map((post, index) => (
         <TimelineItem key={post.date}>
           <TimelineOppositeContent>
-            <span className="text-sm text-muted-foreground">{post.date}</span>
+            <div className="whitespace-nowrap text-sm text-muted-foreground">
+              {post.date}
+            </div>
           </TimelineOppositeContent>
 
           <TimelineSeparator>

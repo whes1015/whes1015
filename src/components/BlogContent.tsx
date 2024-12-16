@@ -49,7 +49,7 @@ export function BlogContent({
           h1: ({ node, children }) => (
             <h1
               id={node.position?.start.line.toString()}
-              className="text-2xl font-bold my-4"
+              className="text-6xl font-black my-4"
             >
               {children}
             </h1>
@@ -57,7 +57,7 @@ export function BlogContent({
           h2: ({ node, children }) => (
             <h2
               id={node.position?.start.line.toString()}
-              className="text-xl font-bold my-3"
+              className="text-4xl font-bold my-3"
             >
               {children}
             </h2>
@@ -65,7 +65,7 @@ export function BlogContent({
           h3: ({ node, children }) => (
             <h3
               id={node.position?.start.line.toString()}
-              className="text-lg font-bold my-2"
+              className="text-2xl font-medium my-2"
             >
               {children}
             </h3>

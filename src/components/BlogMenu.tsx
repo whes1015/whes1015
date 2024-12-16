@@ -23,7 +23,7 @@ export function BlogMenu({ headings }: { headings: HeadingInfo[] }) {
   };
 
   return (
-    <div className="flex-[1] relative" ref={containerRef}>
+    <div className="flex-[1] relative hidden sm:block" ref={containerRef}>
       <div className="sticky top-3 border-2 border-grey rounded-md p-3">
         <div className="text-lg font-bold mb-2">目錄</div>
         <div className="flex flex-col max-h-[calc(100vh-10rem)] overflow-y-auto">
