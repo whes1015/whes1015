@@ -1,6 +1,7 @@
 import { BlogTimeline } from "@/components/BlogTimeLine";
 import { Avatar } from "@mui/material";
 import React from "react";
+import USER_NAME from "../../config";
 
 const Home = () => {
   return (
@@ -8,7 +9,7 @@ const Home = () => {
       <div className="flex flex-col md:flex-row gap-8">
         <aside className="md:w-1/5 flex flex-col items-center pt-8">
           <Avatar
-            alt="whes1015"
+            alt={USER_NAME}
             src="https://avatars.githubusercontent.com/u/44525760?v=4"
             sx={{
               width: { xs: 200, md: 250 },
@@ -16,7 +17,7 @@ const Home = () => {
               mb: 3,
             }}
           />
-          <h1 className="text-4xl md:text-4xl font-black">whes1015</h1>
+          <h1 className="text-4xl md:text-4xl font-black">{USER_NAME}</h1>
         </aside>
 
         <main className="md:w-4/5">
