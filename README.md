@@ -110,6 +110,7 @@
 | `2024/01/25` | 參加 **中央研究院 2024 Earthquake Early Warning workshop** 並與 `京都大學 山田真澄 老師` 分享 TREM 開發過程
 | `2024/10/26` | 參加 `OCF 秋季交流會`
 | `2024/11/14` | 受 `ViewSonic` 邀請 至 `臺灣教育科技展` 演講
+| `2024/11/14` | 全球數位人權大會 `RightsCon 25 Taipei` 前導介紹會
 | `2024/11/23` | 參加 `g0v 第64次 黃金比例黑客松`
 | `2024/11/30` | 參加 `Google Developer Groups DevFest Taipei` 演講 
 
