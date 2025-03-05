@@ -112,7 +112,8 @@
 | `2024/11/14` | 受 `ViewSonic` 邀請 至 `臺灣教育科技展` 演講
 | `2024/11/14` | 全球數位人權大會 `RightsCon 25 Taipei` 前導介紹會
 | `2024/11/23` | 參加 `g0v 第64次 黃金比例黑客松`
-| `2024/11/30` | 參加 `Google Developer Groups DevFest Taipei` 演講 
+| `2024/11/30` | `Google Developer Groups DevFest Taipei 2024` 講者
+| `2025/03/04` | `TOOCON #27` 講者
 
 ## ⏰ 重要里程碑（工作）
 | 日期 | 成就 |
