@@ -156,6 +156,9 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=whes1015&show_icons=true&theme=radical&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whes1015&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whes1015&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whes1015&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whes1015&theme=tokyonight&utcOffset=8)
 
 </div>
