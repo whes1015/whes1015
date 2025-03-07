@@ -2,12 +2,42 @@
 
 ## 🌟 關於我
 - 21 歲 `2003/10/15`，對 **電子電路** 及 **程式設計** 有興趣
-- 正在努力成為一個專業的軟體工程師 💪
-- `NKUST` 電機工程系學生 ⚡
+- 正在努力成為一個專業的全端工程師 💪
+- `國立高雄科技大學 (NKUST)` 電機工程系學生 ⚡
 
 ## 📝 主要作品
-- [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite) - 臺灣即時地震監測
-- [DPIP](https://github.com/ExpTechTW/DPIP) - 防災資訊整合平台
+## TREM-Lite
+
+- 臺灣即時地震監測。
+- [GitHub](https://github.com/ExpTechTW/TREM-Lite)
+
+<details>
+<summary><strong>技術細節</strong></summary>
+
+- **資料整合**：整合 TREM-Net（臺灣即時地震觀測網）和中央氣象署的資料，提供即時且準確的地震資訊。
+- **使用者介面設計**：設計直觀且易於使用的介面，提升使用者體驗。
+
+</details>
+
+## DPIP (Disaster Prevention Information Platform)
+
+- DPIP 是一款由臺灣本土團隊設計的防災資訊整合平台，旨在提供即時的地震速報與災害資訊，協助使用者在災害發生時迅速應對。
+- [GitHub](https://github.com/ExpTechTW/DPIP)
+
+<details>
+<summary><strong>技術細節</strong></summary>
+
+- **跨平台開發**：使用 Flutter 框架進行跨平台開發，確保應用程式在 iOS 和 Android 平台上的一致性和高效能表現。
+
+- **資料整合**：整合 TREM-Net（臺灣即時地震觀測網）和中央氣象署的資料，提供即時且準確的地震資訊。
+
+- **狀態管理**：採用 Provider 進行狀態管理，提升應用程式的可維護性和效能。
+
+- **即時通知**：實現即時推播功能，讓使用者在地震發生時能夠立即收到警報。
+
+- **使用者介面設計**：設計直觀且易於使用的介面，提升使用者體驗。
+
+</details>
 
 ## 🛠️ 技術能力
 
