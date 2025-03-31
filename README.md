@@ -152,6 +152,7 @@
 | `2024/11/23` | 參加 `g0v 第64次 黃金比例黑客松`
 | `2024/11/30` | `Google Developer Groups DevFest Taipei 2024` 講者
 | `2025/03/04` | `TOOCON #27` 講者
+| `2025/03/08` | 參加 `SITCON 2025`
 
 </details>
 
