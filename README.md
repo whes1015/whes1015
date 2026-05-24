@@ -5,6 +5,10 @@
 - 正在努力成為一個專業的全端工程師 💪
 - `國立高雄科技大學 (NKUST)` 電機工程系學生 ⚡
 
+## Hugging Face
+- [YuYu1015](https://huggingface.co/YuYu1015)
+- 量化了不少模型，快來看看吧
+
 ## 📝 主要作品
 ## TREM-Lite
 
@@ -153,6 +157,8 @@
 | `2024/11/30` | `Google Developer Groups DevFest Taipei 2024` 講者
 | `2025/03/04` | `TOOCON #27` 講者
 | `2025/03/08` | 參加 `SITCON 2025`
+| `2025/08/09` | 參加 `COSCUP 2025`
+| `2025/03/28` | 參加 `SITCON 2025`
 
 </details>
 
