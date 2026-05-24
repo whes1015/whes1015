@@ -158,7 +158,8 @@
 | `2025/03/04` | `TOOCON #27` 講者
 | `2025/03/08` | 參加 `SITCON 2025`
 | `2025/08/09` | 參加 `COSCUP 2025`
-| `2025/03/28` | 參加 `SITCON 2025`
+| `2025/11/30` | `Google Developer Groups DevFest Taipei 2025` 開發組 志工
+| `2026/03/28` | 參加 `SITCON 2026`
 
 </details>
 
