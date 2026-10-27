@@ -118,7 +118,7 @@ var YuYu1015 = Developer{
       <h4>📡 ES-Net 感測器韌體</h4>
       <p><code>C++</code> <code>ESP32</code> <code>FreeRTOS</code></p>
       <ul>
-        <li>不依賴原廠函式庫，<b>逐暫存器手寫 LSM6DS3 加速度計驅動</b>；裝置端以 IIR 濾波器組與樹狀陣列即時維護振幅百分位</li>
+        <li>不依賴原廠函式庫，<b>逐暫存器手寫 LSM6DSR 加速度計驅動</b>；裝置端以 IIR 濾波器組與樹狀陣列即時維護振幅百分位</li>
         <li>SNTP 平滑校時、軟硬體看門狗、OTA 與 TOTP 驗證的自訂二進位協定；全臺 <b>200+ 節點</b>，第一代單台成本低於 NT$800</li>
       </ul>
     </td>
@@ -172,7 +172,7 @@ var YuYu1015 = Developer{
 | 🔧 框架 | <img src="https://skillicons.dev/icons?i=vue,react,flutter,nodejs,express,electron,flask,django" alt="Frameworks"/> |
 | 🗄️ 資料庫 & DevOps | <img src="https://skillicons.dev/icons?i=mysql,redis,docker,nginx,ansible,prometheus,githubactions,git,linux" alt="Database & DevOps"/><br><sub>eBPF/XDP · OpenResty · CoreDNS · NTP/SNTP</sub> |
 | ☁️ 雲端服務 | <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,grafana" alt="Cloud"/> |
-| 🔌 嵌入式 | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino, Raspberry Pi"/><img src=".github/assets/esp32.svg" alt="ESP32 / ESP8266"/><br><sub>Arduino Uno · Nano｜ESP32 · ESP8266｜Raspberry Pi 4B · Pico</sub><br><sub>FreeRTOS · I²C/SPI · LSM6DS3 · GNSS（QZSS L1S）· LoRa/Meshtastic</sub> |
+| 🔌 嵌入式 | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino, Raspberry Pi"/><img src=".github/assets/esp32.svg" alt="ESP32 / ESP8266"/><br><sub>Arduino Uno · Nano｜ESP32 · ESP8266｜Raspberry Pi 4B · Pico</sub><br><sub>FreeRTOS · I²C/SPI · LSM6DSR · GNSS（QZSS L1S）· LoRa/Meshtastic</sub> |
 | 🤖 機器學習 | <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, scikit-learn"/><br><sub>SeisBench · ONNX · vLLM · llm-compressor · TensorRT</sub> |
 | 🎮 遊戲開發 | <img src="https://skillicons.dev/icons?i=unity" alt="Unity"/> |
 
